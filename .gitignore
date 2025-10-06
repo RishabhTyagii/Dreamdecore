@@ -1,0 +1,31 @@
+# Node
+frontend/node_modules/
+node_modules/
+
+# Next.js
+.next/
+out/
+dist/
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Python / Django
+*.py[cod]
+__pycache__/
+*.sqlite3
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# build / logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
